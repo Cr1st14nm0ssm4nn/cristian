@@ -1,0 +1,19 @@
+.table {
+    width: 80%;
+    border-collapse: collapse;
+    align-content: center;
+    margin: auto;
+    margin-top: 1%;
+}
+
+.th, td, tr {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+.th{
+    background-color: gray;
+}
+.h1 {
+    text-align: center;
+}
